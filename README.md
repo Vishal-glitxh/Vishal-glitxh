@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1F,35:1E1B4B,70:4C1D95,100:7C3AED&height=190&section=header&text=Vishal%20Suhas&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0714,35:1E1240,70:4C1D95,100:7C3AED&height=190&section=header&text=Vishal%20Suhas&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Software;Engineering+Products+from+Idea+to+Execution;Full+Stack+%7C+AI%2FML+%7C+macOS+%7C+Developer+Tools;Exploring+LLMs%2C+AI+Agents+%26+Intelligent+Systems" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com/">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Software;Engineering+Ideas+into+Products;Full+Stack+%7C+AI%2FML+%7C+Developer+Tools;Exploring+LLMs%2C+AI+Agents+%26+Intelligent+Systems" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -42,32 +42,33 @@
 
 I am a Computer Science & Engineering student and developer focused on **AI engineering, full-stack development, product engineering, and developer tooling**.
 
-My work sits at the intersection of **software engineering and artificial intelligence** — from building modern web applications with React and TypeScript to exploring LLMs, local AI, native macOS development, and intelligent developer workflows.
+My work sits at the intersection of **software engineering and artificial intelligence** — building modern web applications, experimenting with LLM-powered systems, exploring native macOS development, and designing intelligent developer workflows.
 
-I enjoy taking ideas beyond prototypes and turning them into structured products with thoughtful interfaces, maintainable architecture, useful automation, and a strong engineering foundation.
+I enjoy taking ideas beyond prototypes and turning them into structured products with thoughtful interfaces, maintainable architecture, useful automation, accessibility, and measurable engineering considerations.
 
-My current technical interests include **Generative AI, LLM applications, AI assistants, developer productivity systems, full-stack architecture, native macOS software, and intelligent engineering tools**.
+My current interests include **Generative AI, LLM applications, AI assistants, developer productivity, full-stack architecture, native macOS software, machine learning, data science, and intelligent engineering platforms**.
 
-I am particularly interested in building software where AI is not simply an added feature, but an integral part of the product experience.
+I am particularly interested in products where AI is integrated into the core workflow rather than treated as an isolated feature.
 
-**Currently Working On**
+### Currently Working On
 
-- AI-powered developer tools
 - OpenAI and LLM application development
+- AI-powered developer tools
 - Full-stack products using React and TypeScript
 - Native macOS applications using SwiftUI
 - AI-assisted engineering workflows
 - Intelligent productivity systems
+- Applied machine learning and data-driven applications
 
-**Open To**
+### Open To
 
 - Software Engineering Internships
 - AI/ML Engineering Opportunities
 - Full Stack Development
-- Open Source Collaboration
 - AI Product Engineering
+- Open Source Collaboration
 - Research & Applied AI
-- Hackathons and Technical Collaborations
+- Hackathons & Technical Collaborations
 
 ---
 
@@ -85,7 +86,7 @@ I am particularly interested in building software where AI is not simply an adde
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,threejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind&theme=dark"/>
 
 </div>
 
@@ -93,7 +94,7 @@ I am particularly interested in building software where AI is not simply an adde
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,prisma,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,prisma&theme=dark"/>
 
 </div>
 
@@ -107,6 +108,7 @@ I am particularly interested in building software where AI is not simply an adde
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-312E81?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-4C1D95?style=for-the-badge&logo=powerbi&logoColor=white"/>
 
 </div>
 
@@ -133,10 +135,10 @@ I am particularly interested in building software where AI is not simply an adde
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Canva-312E81?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/GSAP-7C3AED?style=for-the-badge&logo=greensock&logoColor=white"/>
 <img src="https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-4C1D95?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/GSAP-7C3AED?style=for-the-badge&logo=greensock&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-312E81?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Canva-4C1D95?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </div>
 
@@ -146,15 +148,18 @@ I am particularly interested in building software where AI is not simply an adde
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Generative AI** | Advanced | Building applications around LLMs, AI assistants and intelligent workflows |
-| **LLM Engineering** | Intermediate | Exploring LLM-powered applications, local models and AI integrations |
-| **OpenAI Development** | Intermediate | Designing AI-powered application experiences and API-driven workflows |
-| **Local AI** | Intermediate | Experimenting with local LLM infrastructure using Ollama |
-| **AI Assistants** | Advanced | Building assistant-oriented interfaces for productivity and engineering workflows |
-| **Machine Learning** | Intermediate | Python-based experimentation using Scikit-Learn and data-science tooling |
-| **AI Product Engineering** | Advanced | Integrating AI capabilities directly into practical software products |
+| **Generative AI** | Advanced | Building and exploring LLM-powered applications, AI assistants and intelligent workflows |
+| **LLM Engineering** | Intermediate | Exploring LLM integrations, prompt-driven workflows and local model ecosystems |
+| **OpenAI Development** | Intermediate | Building application experiences around OpenAI technologies and API-driven AI workflows |
+| **Local AI** | Intermediate | Experimenting with local LLM workflows using Ollama |
+| **AI Assistants** | Advanced | Designing assistant-oriented interfaces for productivity and engineering workflows |
+| **Machine Learning** | Intermediate | Python-based model experimentation and practical ML workflows |
+| **Deep Learning** | Intermediate | Exploring neural-network-based approaches and intelligent application development |
+| **NLP** | Intermediate | Exploring natural-language processing and language-based AI applications |
+| **Computer Vision** | Intermediate | Exploring vision-based machine learning applications |
+| **Data Science** | Intermediate | Data processing, analysis and visualization using NumPy, Pandas and Matplotlib |
+| **AI Product Engineering** | Advanced | Integrating AI capabilities into practical software products |
 | **Developer AI** | Advanced | Exploring AI-assisted development, engineering intelligence and developer productivity |
-| **Data Analysis** | Intermediate | Data processing, visualization and analytical workflows using Python |
 
 ---
 
@@ -165,110 +170,151 @@ I am particularly interested in building software where AI is not simply an adde
 
 <br/>
 
-A native macOS product focused on creating an intelligent, extensible desktop experience. NovaIsland explores the combination of **SwiftUI, AppKit and AI** to build a modern native platform with a long-term plugin and developer ecosystem.
+A native macOS product exploring an intelligent and extensible desktop experience through **SwiftUI, AppKit and AI**. The project is designed around a long-term platform vision with extensibility and developer ecosystem considerations.
 
 | Metric | Details |
 |:---|:---|
 | **Stack** | Swift · SwiftUI · AppKit · AI · macOS |
-| **Scale** | Native desktop platform with an extensible architecture |
-| **Performance** | Native macOS implementation designed for responsive desktop interaction |
+| **Scale** | Native desktop platform architecture |
+| **Performance** | Native macOS implementation focused on responsive desktop interaction |
 | **Security** | Native application architecture with controlled integrations |
-| **Impact** | Exploring a new generation of AI-enhanced desktop productivity |
-| **Repository** | [Explore on GitHub](https://github.com/Vishal-glitxh) |
+| **Impact** | Exploring AI-enhanced desktop productivity and extensible native software |
+| **Repository** | [View Repository](https://github.com/Vishal-glitxh) |
 
-**Engineering Scope**
+### Engineering Scope
 
 - Native macOS application development
-- SwiftUI-based interface architecture
+- SwiftUI interface architecture
 - AppKit integration
 - AI platform experimentation
 - Extensible product architecture
-- Plugin SDK roadmap
+- Plugin-oriented architecture exploration
 - Native desktop interaction patterns
 - Product-oriented AI engineering
 
 </details>
 
 <details>
-<summary><strong>📚 Study Companion — AI-Powered Learning Experience</strong></summary>
+<summary><strong>📚 AI Study Companion — Intelligent Learning Platform</strong></summary>
 
 <br/>
 
-An education-focused application concept designed around improving the learning workflow through intelligent assistance, structured information and modern application interfaces.
+An education-focused application concept designed around improving learning workflows through intelligent assistance, structured information, modern interfaces and productivity-oriented features.
 
 | Metric | Details |
 |:---|:---|
 | **Stack** | React · TypeScript · Vite · AI |
-| **Scale** | Modular learning platform architecture |
+| **Scale** | Modular learning application architecture |
 | **Performance** | Lightweight frontend architecture with responsive interactions |
 | **Security** | Controlled application and API integration patterns |
-| **Impact** | Applying AI to improve student productivity and learning |
-| **Repository** | [Explore on GitHub](https://github.com/Vishal-glitxh) |
+| **Impact** | Applying AI to improve learning and student productivity |
+| **Repository** | [View Repository](https://github.com/Vishal-glitxh) |
 
-**Engineering Scope**
+### Engineering Scope
 
 - AI-assisted learning workflows
-- Modern React architecture
+- React architecture
 - TypeScript development
 - Responsive user interfaces
 - Structured educational experiences
 - Intelligent productivity features
+- Modern frontend engineering
 
 </details>
 
 <details>
-<summary><strong>🧠 IDP — Intelligent Developer Platform</strong></summary>
+<summary><strong>🧠 Core Talent — Intelligent IDP Platform</strong></summary>
 
 <br/>
 
-An engineering-oriented platform concept focused on bringing developer productivity, project intelligence and engineering workflows into a unified environment.
+An enterprise-oriented **Talent Management and Individual Development Plan platform** designed around predictive analytics, AI-driven coaching, skill-gap analysis and gamified employee development.
 
 | Metric | Details |
 |:---|:---|
-| **Stack** | React · TypeScript · Vite · AI · Developer Tooling |
-| **Scale** | Multi-module developer productivity platform |
-| **Performance** | Component-driven frontend architecture |
-| **Security** | Structured access and application-layer security patterns |
-| **Impact** | Centralizing engineering workflows and developer intelligence |
-| **Repository** | [Explore on GitHub](https://github.com/Vishal-glitxh) |
+| **Stack** | Python · Streamlit · Pandas · NumPy · Plotly · Predictive Analytics |
+| **Scale** | Enterprise-oriented talent management platform |
+| **Performance** | Data-driven analytics with interactive visualizations |
+| **Security** | Structured application and data handling workflows |
+| **Impact** | Bridges employee skill gaps with future career aspirations |
+| **Repository** | [View Repository](https://github.com/Vishal-glitxh/Techathon_IDPs) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Developer productivity
-- Engineering intelligence
-- Project-centric workflows
-- AI-assisted development
-- Structured engineering information
-- Modular application architecture
-- Developer experience design
+- Workforce skill heatmaps
+- 9-box talent matrix
+- Succession planning
+- Readiness scoring
+- Attrition-risk prediction
+- Future-star probability analysis
+- AI career coaching
+- Personalized Individual Development Plans
+- Skill-gap analysis
+- Interactive radar charts and heatmaps
+- Gamified employee development
+- Data-driven recommendation workflows
 
 </details>
 
 <details>
-<summary><strong>🧑‍💻 Developer Portfolio — Interactive Engineering Portfolio</strong></summary>
+<summary><strong>🎟️ Event Vault — Full Stack Event Platform</strong></summary>
 
 <br/>
 
-A modern developer portfolio designed to present engineering capabilities, projects, technical interests and professional identity through an interactive web experience.
+A full-stack event-oriented application structured with separate frontend and backend layers, providing a foundation for modern event-management workflows.
 
 | Metric | Details |
 |:---|:---|
-| **Stack** | React · TypeScript · Vite · Three.js · GSAP |
-| **Scale** | Interactive personal engineering portfolio |
-| **Performance** | Optimized modern frontend architecture and animation-driven UX |
-| **Security** | Static frontend architecture with controlled external integrations |
-| **Impact** | Professional engineering presence and project showcase |
+| **Stack** | React · TypeScript · Vite · Python · Backend APIs |
+| **Scale** | Full-stack application architecture |
+| **Performance** | Component-driven frontend with separated backend services |
+| **Security** | Layered frontend/backend architecture |
+| **Impact** | Practical full-stack application engineering |
+| **Repository** | [View Repository](https://github.com/Vishal-glitxh/Event_Vault) |
+
+### Engineering Scope
+
+- React and TypeScript frontend
+- Vite-based application development
+- Python backend
+- Frontend/backend separation
+- API-oriented architecture
+- Component-driven UI development
+- Full-stack application workflows
+
+</details>
+
+<details>
+<summary><strong>🌐 Developer Portfolio — Interactive Engineering Portfolio</strong></summary>
+
+<br/>
+
+A modern interactive developer portfolio presenting engineering capabilities, technical skills, projects and credentials through an animation-driven experience.
+
+| Metric | Details |
+|:---|:---|
+| **Stack** | React · TypeScript · Vite · Three.js · React Three Fiber · GSAP · Framer Motion |
+| **Scale** | Interactive personal engineering platform |
+| **Performance** | Code-splitting and lazy-loaded recruiter/project modules |
+| **Security** | Structured client-side architecture with controlled integrations |
+| **Impact** | Premium engineering portfolio and recruiter-oriented presentation |
 | **Live** | [Visit Portfolio](https://vishalsuhas-dev.vercel.app/) |
+| **Repository** | [View Repository](https://github.com/Vishal-glitxh/Portfolio-main) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- React and TypeScript
-- Vite-based development
-- Three.js experiences
-- GSAP animations
-- Interactive UI design
+- Interactive 3D experience
+- Three.js / React Three Fiber
+- GSAP ScrollTrigger and ScrollSmoother
+- Framer Motion
+- Glassmorphic Bento Grid
+- Recruiter Mode
+- Interactive Project Explorer
+- Lazy-loaded application modules
+- Keyboard-accessible dialogs
+- Focus trapping and restoration
+- ARIA-based accessibility
 - Responsive frontend architecture
-- Engineering portfolio presentation
+- Performance-oriented code splitting
 
 </details>
 
@@ -279,22 +325,23 @@ A modern developer portfolio designed to present engineering capabilities, proje
 ### AI & Software Engineering
 **Independent Development**
 
-`2024 — Present`
+`Ongoing`
 
-Focused on building software products while expanding into artificial intelligence, developer tooling and modern application architecture.
+Focused on building software products while expanding into artificial intelligence, developer tooling, full-stack development and modern application architecture.
 
 - Develop full-stack applications using React, TypeScript, JavaScript and modern frontend tooling.
 - Build AI-oriented applications and experiment with LLM-powered workflows.
-- Explore OpenAI development and practical generative-AI applications.
+- Explore OpenAI development and practical Generative AI applications.
 - Develop native macOS software using SwiftUI and AppKit.
 - Experiment with local AI and LLM workflows using Ollama.
 - Build developer-focused systems around engineering intelligence and productivity.
-- Work with modern visualization and interaction technologies including Three.js and GSAP.
+- Work with Three.js, React Three Fiber and GSAP for interactive experiences.
+- Apply accessibility principles including keyboard navigation, focus management and ARIA semantics.
 - Explore scalable application architecture and product-oriented engineering practices.
 
 **Skills**
 
-`Python` `C++` `Java` `JavaScript` `TypeScript` `Swift` `SQL` `React` `Next.js` `Vite` `Node.js` `Express.js` `Flask` `MongoDB` `MySQL` `SQLite` `Prisma` `SwiftUI` `AppKit` `OpenAI` `Ollama` `AI/ML` `Three.js` `GSAP` `Git` `Docker` `AWS`
+`Python` `C++` `Java` `C` `JavaScript` `TypeScript` `Swift` `SQL` `React` `Next.js` `Vite` `Node.js` `Express.js` `Flask` `MongoDB` `MySQL` `SQLite` `Prisma` `SwiftUI` `AppKit` `OpenAI` `Ollama` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Three.js` `React Three Fiber` `GSAP` `Framer Motion` `Git` `Docker` `AWS`
 
 ---
 
@@ -308,6 +355,7 @@ Focused on building software products while expanding into artificial intelligen
 | Generative AI | TypeScript | AppKit | Developer Productivity |
 | AI Assistants | Node.js | macOS | AI Workflows |
 | Local AI | APIs | Native UX | Project Intelligence |
+| Machine Learning | Databases | Desktop Apps | Automation |
 
 </div>
 
@@ -322,15 +370,16 @@ Focused on building software products while expanding into artificial intelligen
 | **AI Engineering** | Building practical AI-powered applications and exploring LLM-based product experiences |
 | **Product Engineering** | Designing projects that combine engineering, product thinking and user experience |
 | **Native Development** | Exploring native macOS development through SwiftUI and AppKit |
-| **Full Stack Development** | Building modern web applications across frontend, backend and database layers |
+| **Full Stack Development** | Building modern applications across frontend, backend and database layers |
 | **Developer Tooling** | Exploring engineering intelligence and productivity-oriented software |
-| **Open Source** | Active interest in collaborative development and open-source engineering |
+| **Technical Competitions** | Developing applied technology solutions for hackathons and technical events |
+| **Open Source** | Maintaining public repositories and exploring collaborative software development |
 
 </div>
 
 ---
 
-## Certifications
+## Certifications & Learning
 
 ### AWS
 
@@ -422,9 +471,17 @@ Focused on building software products while expanding into artificial intelligen
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vishal-glitxh&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0B1F"/>
+<a href="https://github.com/Vishal-glitxh">
 
-<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Vishal-glitxh&hide_border=true&background=0D0B1F&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vishal-glitxh&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D0B1F" alt="Vishal's GitHub Stats"/>
+
+</a>
+
+<a href="https://github.com/Vishal-glitxh">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-glitxh&layout=compact&langs_count=10&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F" alt="Top Languages"/>
+
+</a>
 
 </div>
 
@@ -432,7 +489,7 @@ Focused on building software products while expanding into artificial intelligen
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-glitxh&layout=compact&langs_count=10&hide_border=true&title_color=A78BFA&text_color=C4B5FD&bg_color=0D0B1F"/>
+<img src="https://streak-stats.demolab.com?user=Vishal-glitxh&theme=dark&hide_border=true&background=0D0B1F&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -442,7 +499,25 @@ Focused on building software products while expanding into artificial intelligen
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vishal-glitxh&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"/>
+<a href="https://github.com/Vishal-glitxh">
+
+<img src="https://img.shields.io/github/stars/Vishal-glitxh?style=for-the-badge&label=GitHub%20Stars&color=7C3AED&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vishal-glitxh?tab=followers">
+
+<img src="https://img.shields.io/github/followers/Vishal-glitxh?style=for-the-badge&label=Followers&color=6D28D9&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vishal-glitxh?tab=repositories">
+
+<img src="https://img.shields.io/badge/Public%20Repositories-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vishal-glitxh">
+
+<img src="https://img.shields.io/badge/Open%20Source-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -452,7 +527,11 @@ Focused on building software products while expanding into artificial intelligen
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-glitxh&bg_color=0D0B1F&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+<a href="https://github.com/Vishal-glitxh">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal-glitxh&bg_color=0D0B1F&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph"/>
+
+</a>
 
 </div>
 
@@ -462,7 +541,11 @@ Focused on building software products while expanding into artificial intelligen
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vishal-glitxh/Vishal-glitxh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishal-glitxh/Vishal-glitxh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishal-glitxh/Vishal-glitxh/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Vishal-glitxh/Vishal-glitxh/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -478,6 +561,8 @@ Learning:
   - System Design
   - Advanced TypeScript
   - SwiftUI & macOS Development
+  - Machine Learning
+  - Deep Learning
 
 Building:
   - NovaIsland
@@ -485,6 +570,7 @@ Building:
   - Intelligent engineering workflows
   - Full Stack applications
   - AI-assisted productivity systems
+  - Developer-focused platforms
 
 Exploring:
   - OpenAI Development
@@ -493,7 +579,8 @@ Exploring:
   - Engineering Intelligence
   - Developer Productivity
   - Native macOS Applications
-  - Three.js & Interactive Interfaces
+  - Three.js & React Three Fiber
+  - Interactive Web Experiences
 
 Open To:
   - Software Engineering Internships
